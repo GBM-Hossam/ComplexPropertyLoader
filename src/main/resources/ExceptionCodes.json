@@ -1,0 +1,17 @@
+[
+    {
+      "code": 1000,
+      "arMessage": "token not valid",
+      "enMessage": "اي حاجه بالعربي"
+    },
+	{
+      "code": 1001,
+      "arMessage": "user not found",
+      "enMessage": "اي حاجه كمان"
+    },
+	{
+      "code": 1002,
+      "arMessage": "entity exist before",
+      "enMessage": "كماااان"
+    }
+  ]
